@@ -19,11 +19,9 @@ Personal Training: The website also offers personal training services for users 
 Technologies Used
 The fitness website is built using HTML, CSS, and JavaScript, and is designed to be mobile-responsive and accessible on a variety of devices.
 
-Contributing
-Contributions to the fitness website project are welcome and encouraged. Users can submit suggestions, bug reports, or feature requests via the website's contact form.
+ 
 
-License
-This fitness website project is licensed under the MIT License. Users are free to use and modify the website for personal or commercial purposes, with attribution to the original project.
+ 
 
 
 
